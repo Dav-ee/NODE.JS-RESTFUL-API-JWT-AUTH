@@ -1,0 +1,8 @@
+{
+    "env": {
+        // mongodb password here
+        "MONGO_PWD": "moni37230559moni",
+        // enter your secret key
+        "JWT_SECRET_KEY": ""
+    }
+}
